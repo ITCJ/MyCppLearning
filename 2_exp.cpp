@@ -20,7 +20,7 @@ using namespace std;
 template <class numType>
 class nums {
     public:
-        nums(): operateNum(0) {}
+        nums(): operateNum(0) {};;;;;;;;;;;;;;;
         nums(numType inputNum): operateNum(inputNum) {}
         ~nums() {}
 
